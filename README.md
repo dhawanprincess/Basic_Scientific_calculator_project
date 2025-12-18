@@ -43,7 +43,7 @@ This project demonstrates practical application of **C++ programming concepts** 
 ## Installation
 1. Clone the repository:  
    ```bash
-   git clone <your-repo-link>
+   https://github.com/dhawanprincess/Basic_Scientific_calculator_project/tree/main
 2. To navigate the project folder and combine the code:
 g++ calculator.cpp -o calculator
 3.Run the executable:
